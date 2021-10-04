@@ -1,1 +1,1 @@
-Hello, 3 project!
+Hello, Hexlet! How are you?
